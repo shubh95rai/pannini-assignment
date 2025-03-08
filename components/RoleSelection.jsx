@@ -24,7 +24,8 @@ export default function RoleSelection() {
   // const [role, setRole] = useState("");
 
   const { role, setRole } = useAssignmentContext();
-  console.log(role);
+  // console.log(role);
+
   const {
     register,
     handleSubmit,

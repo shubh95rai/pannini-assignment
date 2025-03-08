@@ -29,7 +29,7 @@ export default function AssignmentSubmission() {
     return assignment.id == id;
   });
 
-  console.log(assignmentToSubmit);
+  // console.log(assignmentToSubmit);
   const {
     register,
     handleSubmit,

@@ -37,7 +37,7 @@ export default function AssignmentProvider({ children }) {
         const data = await response.json();
         setAssignments(data);
       } catch (error) {
-        console.log(error);
+        console.error("Failed to load assignments!:", error);
         alert(error.message);
       }
     }
