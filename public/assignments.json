@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Math Homework",
+    "description": "Complete exercises 1-20 from Chapter 5.",
+    "dueDate": "2025-03-10"
+  },
+  {
+    "id": 2,
+    "title": "Science Project",
+    "description": "Prepare a model of the solar system.",
+    "dueDate": "2025-03-15"
+  },
+  {
+    "id": 3,
+    "title": "History Essay",
+    "description": "Write a 1500-word essay on World War II.",
+    "dueDate": "2025-03-12"
+  },
+  {
+    "id": 4,
+    "title": "Computer Science Assignment",
+    "description": "Build a simple to-do app using React.js.",
+    "dueDate": "2025-03-18"
+  },
+  {
+    "id": 5,
+    "title": "English Literature Review",
+    "description": "Analyze and review 'To Kill a Mockingbird'.",
+    "dueDate": "2025-03-20"
+  },
+  {
+    "id": 6,
+    "title": "Physics Experiment Report",
+    "description": "Document findings from the pendulum experiment.",
+    "dueDate": "2025-03-22"
+  },
+  {
+    "id": 7,
+    "title": "Geography Map Study",
+    "description": "Label all major rivers and mountains on the world map.",
+    "dueDate": "2025-03-25"
+  },
+  {
+    "id": 8,
+    "title": "Art Portfolio Submission",
+    "description": "Submit 5 original sketches or paintings.",
+    "dueDate": "2025-03-28"
+  },
+  {
+    "id": 9,
+    "title": "Biology Research Paper",
+    "description": "Write a research paper on human genetics.",
+    "dueDate": "2025-03-30"
+  },
+  {
+    "id": 10,
+    "title": "Economics Case Study",
+    "description": "Analyze the impact of inflation on the housing market.",
+    "dueDate": "2025-04-02"
+  }
+]
